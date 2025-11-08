@@ -17,7 +17,7 @@
     "csurf": "^1.9.0",
     "ejs": "^2.5.7",
     "express": "^5.0.0",
-    "express-fileupload": "^0.4.0",
+    "express-fileupload": "^1.0.0",
     "express-flash": "0.0.2",
     "express-session": "^1.15.7",
     "flash": "^1.1.0",
